@@ -1,6 +1,6 @@
 Spécifications fonctionnelles:
 
-[] réseau social interne
+[x] réseau social interne
 
 Page de connexion:
 [x]Une page de connexion permettant à l’utilisateur de se connecter, ou bien
@@ -34,7 +34,7 @@ suppression sur tous les posts du réseau social. Il faudra donc nous
 communiquer les identifiants de cet administrateur.
 
 Identité graphique
-[] Police d’écriture : tous les textes du site doivent utiliser la police Lato.
+[x] Police d’écriture : tous les textes du site doivent utiliser la police Lato.
 Couleurs : vous êtes libre sur les couleurs, mais voici notre palette actuelle
 dont vous pouvez vous inspirer.
 ● Primaire : #FD2D01
