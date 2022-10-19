@@ -2,7 +2,7 @@
 
 _Compétences évaluées_
 
-- [x] AuthentiKer un utilisateur et maintenir sa session
+- [x] Authentifier un utilisateur et maintenir sa session
 
 - [x] Implémenter un stockage de données sécurisé en utilisant une base de données
 
